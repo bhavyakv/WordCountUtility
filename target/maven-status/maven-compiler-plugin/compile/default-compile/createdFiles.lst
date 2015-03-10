@@ -1,0 +1,3 @@
+main\wordcount\controllers\WordCountController.class
+main\wordcount\parser\WordParser.class
+main\wordcount\MainClass.class
